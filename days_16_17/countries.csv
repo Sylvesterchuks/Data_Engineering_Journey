@@ -1,0 +1,251 @@
+name,capital,languages,population,flag,currency
+Afghanistan,Kabul,"['Pashto', 'Uzbek', 'Turkmen']",27657145,https://restcountries.eu/data/afg.svg,Afghan afghani
+Åland Islands,Mariehamn,['Swedish'],28875,https://restcountries.eu/data/ala.svg,Euro
+Albania,Tirana,['Albanian'],2886026,https://restcountries.eu/data/alb.svg,Albanian lek
+Algeria,Algiers,['Arabic'],40400000,https://restcountries.eu/data/dza.svg,Algerian dinar
+American Samoa,Pago Pago,"['English', 'Samoan']",57100,https://restcountries.eu/data/asm.svg,United State Dollar
+Andorra,Andorra la Vella,['Catalan'],78014,https://restcountries.eu/data/and.svg,Euro
+Angola,Luanda,['Portuguese'],25868000,https://restcountries.eu/data/ago.svg,Angolan kwanza
+Anguilla,The Valley,['English'],13452,https://restcountries.eu/data/aia.svg,East Caribbean dollar
+Antarctica,,"['English', 'Russian']",1000,https://restcountries.eu/data/ata.svg,Australian dollar
+Antigua and Barbuda,Saint John's,['English'],86295,https://restcountries.eu/data/atg.svg,East Caribbean dollar
+Argentina,Buenos Aires,"['Spanish', 'Guaraní']",43590400,https://restcountries.eu/data/arg.svg,Argentine peso
+Armenia,Yerevan,"['Armenian', 'Russian']",2994400,https://restcountries.eu/data/arm.svg,Armenian dram
+Aruba,Oranjestad,"['Dutch', '(Eastern) Punjabi']",107394,https://restcountries.eu/data/abw.svg,Aruban florin
+Australia,Canberra,['English'],24117360,https://restcountries.eu/data/aus.svg,Australian dollar
+Austria,Vienna,['German'],8725931,https://restcountries.eu/data/aut.svg,Euro
+Azerbaijan,Baku,['Azerbaijani'],9730500,https://restcountries.eu/data/aze.svg,Azerbaijani manat
+Bahamas,Nassau,['English'],378040,https://restcountries.eu/data/bhs.svg,Bahamian dollar
+Bahrain,Manama,['Arabic'],1404900,https://restcountries.eu/data/bhr.svg,Bahraini dinar
+Bangladesh,Dhaka,['Bengali'],161006790,https://restcountries.eu/data/bgd.svg,Bangladeshi taka
+Barbados,Bridgetown,['English'],285000,https://restcountries.eu/data/brb.svg,Barbadian dollar
+Belarus,Minsk,"['Belarusian', 'Russian']",9498700,https://restcountries.eu/data/blr.svg,New Belarusian ruble
+Belgium,Brussels,"['Dutch', 'French', 'German']",11319511,https://restcountries.eu/data/bel.svg,Euro
+Belize,Belmopan,"['English', 'Spanish']",370300,https://restcountries.eu/data/blz.svg,Belize dollar
+Benin,Porto-Novo,['French'],10653654,https://restcountries.eu/data/ben.svg,West African CFA franc
+Bermuda,Hamilton,['English'],61954,https://restcountries.eu/data/bmu.svg,Bermudian dollar
+Bhutan,Thimphu,['Dzongkha'],775620,https://restcountries.eu/data/btn.svg,Bhutanese ngultrum
+Bolivia (Plurinational State of),Sucre,"['Spanish', 'Aymara', 'Quechua']",10985059,https://restcountries.eu/data/bol.svg,Bolivian boliviano
+"Bonaire, Sint Eustatius and Saba",Kralendijk,['Dutch'],17408,https://restcountries.eu/data/bes.svg,United States dollar
+Bosnia and Herzegovina,Sarajevo,"['Bosnian', 'Croatian', 'Serbian']",3531159,https://restcountries.eu/data/bih.svg,Bosnia and Herzegovina convertible mark
+Botswana,Gaborone,"['English', 'Tswana']",2141206,https://restcountries.eu/data/bwa.svg,Botswana pula
+Bouvet Island,,"['Norwegian', 'Norwegian Bokmål', 'Norwegian Nynorsk']",0,https://restcountries.eu/data/bvt.svg,Norwegian krone
+Brazil,Brasília,['Portuguese'],206135893,https://restcountries.eu/data/bra.svg,Brazilian real
+British Indian Ocean Territory,Diego Garcia,['English'],3000,https://restcountries.eu/data/iot.svg,United States dollar
+United States Minor Outlying Islands,,['English'],300,https://restcountries.eu/data/umi.svg,United States Dollar
+Virgin Islands (British),Road Town,['English'],28514,https://restcountries.eu/data/vgb.svg,[D]
+Virgin Islands (U.S.),Charlotte Amalie,['English'],114743,https://restcountries.eu/data/vir.svg,United States dollar
+Brunei Darussalam,Bandar Seri Begawan,['Malay'],411900,https://restcountries.eu/data/brn.svg,Brunei dollar
+Bulgaria,Sofia,['Bulgarian'],7153784,https://restcountries.eu/data/bgr.svg,Bulgarian lev
+Burkina Faso,Ouagadougou,"['French', 'Fula']",19034397,https://restcountries.eu/data/bfa.svg,West African CFA franc
+Burundi,Bujumbura,"['French', 'Kirundi']",10114505,https://restcountries.eu/data/bdi.svg,Burundian franc
+Cambodia,Phnom Penh,['Khmer'],15626444,https://restcountries.eu/data/khm.svg,Cambodian riel
+Cameroon,Yaoundé,"['English', 'French']",22709892,https://restcountries.eu/data/cmr.svg,Central African CFA franc
+Canada,Ottawa,"['English', 'French']",36155487,https://restcountries.eu/data/can.svg,Canadian dollar
+Cabo Verde,Praia,['Portuguese'],531239,https://restcountries.eu/data/cpv.svg,Cape Verdean escudo
+Cayman Islands,George Town,['English'],58238,https://restcountries.eu/data/cym.svg,Cayman Islands dollar
+Central African Republic,Bangui,"['French', 'Sango']",4998000,https://restcountries.eu/data/caf.svg,Central African CFA franc
+Chad,N'Djamena,"['French', 'Arabic']",14497000,https://restcountries.eu/data/tcd.svg,Central African CFA franc
+Chile,Santiago,['Spanish'],18191900,https://restcountries.eu/data/chl.svg,Chilean peso
+China,Beijing,['Chinese'],1377422166,https://restcountries.eu/data/chn.svg,Chinese yuan
+Christmas Island,Flying Fish Cove,['English'],2072,https://restcountries.eu/data/cxr.svg,Australian dollar
+Cocos (Keeling) Islands,West Island,['English'],550,https://restcountries.eu/data/cck.svg,Australian dollar
+Colombia,Bogotá,['Spanish'],48759958,https://restcountries.eu/data/col.svg,Colombian peso
+Comoros,Moroni,"['Arabic', 'French']",806153,https://restcountries.eu/data/com.svg,Comorian franc
+Congo,Brazzaville,"['French', 'Lingala']",4741000,https://restcountries.eu/data/cog.svg,Central African CFA franc
+Congo (Democratic Republic of the),Kinshasa,"['French', 'Lingala', 'Kongo', 'Swahili', 'Luba-Katanga']",85026000,https://restcountries.eu/data/cod.svg,Congolese franc
+Cook Islands,Avarua,['English'],18100,https://restcountries.eu/data/cok.svg,New Zealand dollar
+Costa Rica,San José,['Spanish'],4890379,https://restcountries.eu/data/cri.svg,Costa Rican colón
+Croatia,Zagreb,['Croatian'],4190669,https://restcountries.eu/data/hrv.svg,Croatian kuna
+Cuba,Havana,['Spanish'],11239004,https://restcountries.eu/data/cub.svg,Cuban convertible peso
+Curaçao,Willemstad,"['Dutch', '(Eastern) Punjabi', 'English']",154843,https://restcountries.eu/data/cuw.svg,Netherlands Antillean guilder
+Cyprus,Nicosia,"['Greek (modern)', 'Turkish', 'Armenian']",847000,https://restcountries.eu/data/cyp.svg,Euro
+Czech Republic,Prague,"['Czech', 'Slovak']",10558524,https://restcountries.eu/data/cze.svg,Czech koruna
+Denmark,Copenhagen,['Danish'],5717014,https://restcountries.eu/data/dnk.svg,Danish krone
+Djibouti,Djibouti,"['French', 'Arabic']",900000,https://restcountries.eu/data/dji.svg,Djiboutian franc
+Dominica,Roseau,['English'],71293,https://restcountries.eu/data/dma.svg,East Caribbean dollar
+Dominican Republic,Santo Domingo,['Spanish'],10075045,https://restcountries.eu/data/dom.svg,Dominican peso
+Ecuador,Quito,['Spanish'],16545799,https://restcountries.eu/data/ecu.svg,United States dollar
+Egypt,Cairo,['Arabic'],91290000,https://restcountries.eu/data/egy.svg,Egyptian pound
+El Salvador,San Salvador,['Spanish'],6520675,https://restcountries.eu/data/slv.svg,United States dollar
+Equatorial Guinea,Malabo,"['Spanish', 'French']",1222442,https://restcountries.eu/data/gnq.svg,Central African CFA franc
+Eritrea,Asmara,"['Tigrinya', 'Arabic', 'English']",5352000,https://restcountries.eu/data/eri.svg,Eritrean nakfa
+Estonia,Tallinn,['Estonian'],1315944,https://restcountries.eu/data/est.svg,Euro
+Ethiopia,Addis Ababa,['Amharic'],92206005,https://restcountries.eu/data/eth.svg,Ethiopian birr
+Falkland Islands (Malvinas),Stanley,['English'],2563,https://restcountries.eu/data/flk.svg,Falkland Islands pound
+Faroe Islands,Tórshavn,['Faroese'],49376,https://restcountries.eu/data/fro.svg,Danish krone
+Fiji,Suva,"['English', 'Fijian', 'Hindi', 'Urdu']",867000,https://restcountries.eu/data/fji.svg,Fijian dollar
+Finland,Helsinki,"['Finnish', 'Swedish']",5491817,https://restcountries.eu/data/fin.svg,Euro
+France,Paris,['French'],66710000,https://restcountries.eu/data/fra.svg,Euro
+French Guiana,Cayenne,['French'],254541,https://restcountries.eu/data/guf.svg,Euro
+French Polynesia,Papeetē,['French'],271800,https://restcountries.eu/data/pyf.svg,CFP franc
+French Southern Territories,Port-aux-Français,['French'],140,https://restcountries.eu/data/atf.svg,Euro
+Gabon,Libreville,['French'],1802278,https://restcountries.eu/data/gab.svg,Central African CFA franc
+Gambia,Banjul,['English'],1882450,https://restcountries.eu/data/gmb.svg,Gambian dalasi
+Georgia,Tbilisi,['Georgian'],3720400,https://restcountries.eu/data/geo.svg,Georgian Lari
+Germany,Berlin,['German'],81770900,https://restcountries.eu/data/deu.svg,Euro
+Ghana,Accra,['English'],27670174,https://restcountries.eu/data/gha.svg,Ghanaian cedi
+Gibraltar,Gibraltar,['English'],33140,https://restcountries.eu/data/gib.svg,Gibraltar pound
+Greece,Athens,['Greek (modern)'],10858018,https://restcountries.eu/data/grc.svg,Euro
+Greenland,Nuuk,['Kalaallisut'],55847,https://restcountries.eu/data/grl.svg,Danish krone
+Grenada,St. George's,['English'],103328,https://restcountries.eu/data/grd.svg,East Caribbean dollar
+Guadeloupe,Basse-Terre,['French'],400132,https://restcountries.eu/data/glp.svg,Euro
+Guam,Hagåtña,"['English', 'Chamorro', 'Spanish']",184200,https://restcountries.eu/data/gum.svg,United States dollar
+Guatemala,Guatemala City,['Spanish'],16176133,https://restcountries.eu/data/gtm.svg,Guatemalan quetzal
+Guernsey,St. Peter Port,"['English', 'French']",62999,https://restcountries.eu/data/ggy.svg,British pound
+Guinea,Conakry,"['French', 'Fula']",12947000,https://restcountries.eu/data/gin.svg,Guinean franc
+Guinea-Bissau,Bissau,['Portuguese'],1547777,https://restcountries.eu/data/gnb.svg,West African CFA franc
+Guyana,Georgetown,['English'],746900,https://restcountries.eu/data/guy.svg,Guyanese dollar
+Haiti,Port-au-Prince,"['French', 'Haitian']",11078033,https://restcountries.eu/data/hti.svg,Haitian gourde
+Heard Island and McDonald Islands,,['English'],0,https://restcountries.eu/data/hmd.svg,Australian dollar
+Holy See,Rome,"['Latin', 'Italian', 'French', 'German']",451,https://restcountries.eu/data/vat.svg,Euro
+Honduras,Tegucigalpa,['Spanish'],8576532,https://restcountries.eu/data/hnd.svg,Honduran lempira
+Hong Kong,City of Victoria,"['English', 'Chinese']",7324300,https://restcountries.eu/data/hkg.svg,Hong Kong dollar
+Hungary,Budapest,['Hungarian'],9823000,https://restcountries.eu/data/hun.svg,Hungarian forint
+Iceland,Reykjavík,['Icelandic'],334300,https://restcountries.eu/data/isl.svg,Icelandic króna
+India,New Delhi,"['Hindi', 'English']",1295210000,https://restcountries.eu/data/ind.svg,Indian rupee
+Indonesia,Jakarta,['Indonesian'],258705000,https://restcountries.eu/data/idn.svg,Indonesian rupiah
+Côte d'Ivoire,Yamoussoukro,['French'],22671331,https://restcountries.eu/data/civ.svg,West African CFA franc
+Iran (Islamic Republic of),Tehran,['Persian (Farsi)'],79369900,https://restcountries.eu/data/irn.svg,Iranian rial
+Iraq,Baghdad,"['Arabic', 'Kurdish']",37883543,https://restcountries.eu/data/irq.svg,Iraqi dinar
+Ireland,Dublin,"['Irish', 'English']",6378000,https://restcountries.eu/data/irl.svg,Euro
+Isle of Man,Douglas,"['English', 'Manx']",84497,https://restcountries.eu/data/imn.svg,British pound
+Israel,Jerusalem,"['Hebrew (modern)', 'Arabic']",8527400,https://restcountries.eu/data/isr.svg,Israeli new shekel
+Italy,Rome,['Italian'],60665551,https://restcountries.eu/data/ita.svg,Euro
+Jamaica,Kingston,['English'],2723246,https://restcountries.eu/data/jam.svg,Jamaican dollar
+Japan,Tokyo,['Japanese'],126960000,https://restcountries.eu/data/jpn.svg,Japanese yen
+Jersey,Saint Helier,"['English', 'French']",100800,https://restcountries.eu/data/jey.svg,British pound
+Jordan,Amman,['Arabic'],9531712,https://restcountries.eu/data/jor.svg,Jordanian dinar
+Kazakhstan,Astana,"['Kazakh', 'Russian']",17753200,https://restcountries.eu/data/kaz.svg,Kazakhstani tenge
+Kenya,Nairobi,"['English', 'Swahili']",47251000,https://restcountries.eu/data/ken.svg,Kenyan shilling
+Kiribati,South Tarawa,['English'],113400,https://restcountries.eu/data/kir.svg,Australian dollar
+Kuwait,Kuwait City,['Arabic'],4183658,https://restcountries.eu/data/kwt.svg,Kuwaiti dinar
+Kyrgyzstan,Bishkek,"['Kyrgyz', 'Russian']",6047800,https://restcountries.eu/data/kgz.svg,Kyrgyzstani som
+Lao People's Democratic Republic,Vientiane,['Lao'],6492400,https://restcountries.eu/data/lao.svg,Lao kip
+Latvia,Riga,['Latvian'],1961600,https://restcountries.eu/data/lva.svg,Euro
+Lebanon,Beirut,"['Arabic', 'French']",5988000,https://restcountries.eu/data/lbn.svg,Lebanese pound
+Lesotho,Maseru,"['English', 'Southern Sotho']",1894194,https://restcountries.eu/data/lso.svg,Lesotho loti
+Liberia,Monrovia,['English'],4615000,https://restcountries.eu/data/lbr.svg,Liberian dollar
+Libya,Tripoli,['Arabic'],6385000,https://restcountries.eu/data/lby.svg,Libyan dinar
+Liechtenstein,Vaduz,['German'],37623,https://restcountries.eu/data/lie.svg,Swiss franc
+Lithuania,Vilnius,['Lithuanian'],2872294,https://restcountries.eu/data/ltu.svg,Euro
+Luxembourg,Luxembourg,"['French', 'German', 'Luxembourgish']",576200,https://restcountries.eu/data/lux.svg,Euro
+Macao,,"['Chinese', 'Portuguese']",649100,https://restcountries.eu/data/mac.svg,Macanese pataca
+Macedonia (the former Yugoslav Republic of),Skopje,['Macedonian'],2058539,https://restcountries.eu/data/mkd.svg,Macedonian denar
+Madagascar,Antananarivo,"['French', 'Malagasy']",22434363,https://restcountries.eu/data/mdg.svg,Malagasy ariary
+Malawi,Lilongwe,"['English', 'Chichewa']",16832910,https://restcountries.eu/data/mwi.svg,Malawian kwacha
+Malaysia,Kuala Lumpur,['Malaysian'],31405416,https://restcountries.eu/data/mys.svg,Malaysian ringgit
+Maldives,Malé,['Divehi'],344023,https://restcountries.eu/data/mdv.svg,Maldivian rufiyaa
+Mali,Bamako,['French'],18135000,https://restcountries.eu/data/mli.svg,West African CFA franc
+Malta,Valletta,"['Maltese', 'English']",425384,https://restcountries.eu/data/mlt.svg,Euro
+Marshall Islands,Majuro,"['English', 'Marshallese']",54880,https://restcountries.eu/data/mhl.svg,United States dollar
+Martinique,Fort-de-France,['French'],378243,https://restcountries.eu/data/mtq.svg,Euro
+Mauritania,Nouakchott,['Arabic'],3718678,https://restcountries.eu/data/mrt.svg,Mauritanian ouguiya
+Mauritius,Port Louis,['English'],1262879,https://restcountries.eu/data/mus.svg,Mauritian rupee
+Mayotte,Mamoudzou,['French'],226915,https://restcountries.eu/data/myt.svg,Euro
+Mexico,Mexico City,['Spanish'],122273473,https://restcountries.eu/data/mex.svg,Mexican peso
+Micronesia (Federated States of),Palikir,['English'],102800,https://restcountries.eu/data/fsm.svg,[D]
+Moldova (Republic of),Chișinău,['Romanian'],3553100,https://restcountries.eu/data/mda.svg,Moldovan leu
+Monaco,Monaco,['French'],38400,https://restcountries.eu/data/mco.svg,Euro
+Mongolia,Ulan Bator,['Mongolian'],3093100,https://restcountries.eu/data/mng.svg,Mongolian tögrög
+Montenegro,Podgorica,"['Serbian', 'Bosnian', 'Albanian', 'Croatian']",621810,https://restcountries.eu/data/mne.svg,Euro
+Montserrat,Plymouth,['English'],4922,https://restcountries.eu/data/msr.svg,East Caribbean dollar
+Morocco,Rabat,['Arabic'],33337529,https://restcountries.eu/data/mar.svg,Moroccan dirham
+Mozambique,Maputo,['Portuguese'],26423700,https://restcountries.eu/data/moz.svg,Mozambican metical
+Myanmar,Naypyidaw,['Burmese'],51419420,https://restcountries.eu/data/mmr.svg,Burmese kyat
+Namibia,Windhoek,"['English', 'Afrikaans']",2324388,https://restcountries.eu/data/nam.svg,Namibian dollar
+Nauru,Yaren,"['English', 'Nauruan']",10084,https://restcountries.eu/data/nru.svg,Australian dollar
+Nepal,Kathmandu,['Nepali'],28431500,https://restcountries.eu/data/npl.svg,Nepalese rupee
+Netherlands,Amsterdam,['Dutch'],17019800,https://restcountries.eu/data/nld.svg,Euro
+New Caledonia,Nouméa,['French'],268767,https://restcountries.eu/data/ncl.svg,CFP franc
+New Zealand,Wellington,"['English', 'Māori']",4697854,https://restcountries.eu/data/nzl.svg,New Zealand dollar
+Nicaragua,Managua,['Spanish'],6262703,https://restcountries.eu/data/nic.svg,Nicaraguan córdoba
+Niger,Niamey,['French'],20715000,https://restcountries.eu/data/ner.svg,West African CFA franc
+Nigeria,Abuja,['English'],186988000,https://restcountries.eu/data/nga.svg,Nigerian naira
+Niue,Alofi,['English'],1470,https://restcountries.eu/data/niu.svg,New Zealand dollar
+Norfolk Island,Kingston,['English'],2302,https://restcountries.eu/data/nfk.svg,Australian dollar
+Korea (Democratic People's Republic of),Pyongyang,['Korean'],25281000,https://restcountries.eu/data/prk.svg,North Korean won
+Northern Mariana Islands,Saipan,"['English', 'Chamorro']",56940,https://restcountries.eu/data/mnp.svg,United States dollar
+Norway,Oslo,"['Norwegian', 'Norwegian Bokmål', 'Norwegian Nynorsk']",5223256,https://restcountries.eu/data/nor.svg,Norwegian krone
+Oman,Muscat,['Arabic'],4420133,https://restcountries.eu/data/omn.svg,Omani rial
+Pakistan,Islamabad,"['English', 'Urdu']",194125062,https://restcountries.eu/data/pak.svg,Pakistani rupee
+Palau,Ngerulmud,['English'],17950,https://restcountries.eu/data/plw.svg,[E]
+"Palestine, State of",Ramallah,['Arabic'],4682467,https://restcountries.eu/data/pse.svg,Israeli new sheqel
+Panama,Panama City,['Spanish'],3814672,https://restcountries.eu/data/pan.svg,Panamanian balboa
+Papua New Guinea,Port Moresby,['English'],8083700,https://restcountries.eu/data/png.svg,Papua New Guinean kina
+Paraguay,Asunción,"['Spanish', 'Guaraní']",6854536,https://restcountries.eu/data/pry.svg,Paraguayan guaraní
+Peru,Lima,['Spanish'],31488700,https://restcountries.eu/data/per.svg,Peruvian sol
+Philippines,Manila,['English'],103279800,https://restcountries.eu/data/phl.svg,Philippine peso
+Pitcairn,Adamstown,['English'],56,https://restcountries.eu/data/pcn.svg,New Zealand dollar
+Poland,Warsaw,['Polish'],38437239,https://restcountries.eu/data/pol.svg,Polish złoty
+Portugal,Lisbon,['Portuguese'],10374822,https://restcountries.eu/data/prt.svg,Euro
+Puerto Rico,San Juan,"['Spanish', 'English']",3474182,https://restcountries.eu/data/pri.svg,United States dollar
+Qatar,Doha,['Arabic'],2587564,https://restcountries.eu/data/qat.svg,Qatari riyal
+Republic of Kosovo,Pristina,"['Albanian', 'Serbian']",1733842,https://restcountries.eu/data/kos.svg,Euro
+Réunion,Saint-Denis,['French'],840974,https://restcountries.eu/data/reu.svg,Euro
+Romania,Bucharest,['Romanian'],19861408,https://restcountries.eu/data/rou.svg,Romanian leu
+Russian Federation,Moscow,['Russian'],146599183,https://restcountries.eu/data/rus.svg,Russian ruble
+Rwanda,Kigali,"['Kinyarwanda', 'English', 'French']",11553188,https://restcountries.eu/data/rwa.svg,Rwandan franc
+Saint Barthélemy,Gustavia,['French'],9417,https://restcountries.eu/data/blm.svg,Euro
+"Saint Helena, Ascension and Tristan da Cunha",Jamestown,['English'],4255,https://restcountries.eu/data/shn.svg,Saint Helena pound
+Saint Kitts and Nevis,Basseterre,['English'],46204,https://restcountries.eu/data/kna.svg,East Caribbean dollar
+Saint Lucia,Castries,['English'],186000,https://restcountries.eu/data/lca.svg,East Caribbean dollar
+Saint Martin (French part),Marigot,"['English', 'French', 'Dutch']",36979,https://restcountries.eu/data/maf.svg,Euro
+Saint Pierre and Miquelon,Saint-Pierre,['French'],6069,https://restcountries.eu/data/spm.svg,Euro
+Saint Vincent and the Grenadines,Kingstown,['English'],109991,https://restcountries.eu/data/vct.svg,East Caribbean dollar
+Samoa,Apia,"['Samoan', 'English']",194899,https://restcountries.eu/data/wsm.svg,Samoan tālā
+San Marino,City of San Marino,['Italian'],33005,https://restcountries.eu/data/smr.svg,Euro
+Sao Tome and Principe,São Tomé,['Portuguese'],187356,https://restcountries.eu/data/stp.svg,São Tomé and Príncipe dobra
+Saudi Arabia,Riyadh,['Arabic'],32248200,https://restcountries.eu/data/sau.svg,Saudi riyal
+Senegal,Dakar,['French'],14799859,https://restcountries.eu/data/sen.svg,West African CFA franc
+Serbia,Belgrade,['Serbian'],7076372,https://restcountries.eu/data/srb.svg,Serbian dinar
+Seychelles,Victoria,"['French', 'English']",91400,https://restcountries.eu/data/syc.svg,Seychellois rupee
+Sierra Leone,Freetown,['English'],7075641,https://restcountries.eu/data/sle.svg,Sierra Leonean leone
+Singapore,Singapore,"['English', 'Malay', 'Tamil', 'Chinese']",5535000,https://restcountries.eu/data/sgp.svg,Brunei dollar
+Sint Maarten (Dutch part),Philipsburg,"['Dutch', 'English']",38247,https://restcountries.eu/data/sxm.svg,Netherlands Antillean guilder
+Slovakia,Bratislava,['Slovak'],5426252,https://restcountries.eu/data/svk.svg,Euro
+Slovenia,Ljubljana,['Slovene'],2064188,https://restcountries.eu/data/svn.svg,Euro
+Solomon Islands,Honiara,['English'],642000,https://restcountries.eu/data/slb.svg,Solomon Islands dollar
+Somalia,Mogadishu,"['Somali', 'Arabic']",11079000,https://restcountries.eu/data/som.svg,Somali shilling
+South Africa,Pretoria,"['Afrikaans', 'English', 'Southern Ndebele', 'Southern Sotho', 'Swati', 'Tswana', 'Tsonga', 'Venda', 'Xhosa', 'Zulu']",55653654,https://restcountries.eu/data/zaf.svg,South African rand
+South Georgia and the South Sandwich Islands,King Edward Point,['English'],30,https://restcountries.eu/data/sgs.svg,British pound
+Korea (Republic of),Seoul,['Korean'],50801405,https://restcountries.eu/data/kor.svg,South Korean won
+South Sudan,Juba,['English'],12131000,https://restcountries.eu/data/ssd.svg,South Sudanese pound
+Spain,Madrid,['Spanish'],46438422,https://restcountries.eu/data/esp.svg,Euro
+Sri Lanka,Colombo,"['Sinhalese', 'Tamil']",20966000,https://restcountries.eu/data/lka.svg,Sri Lankan rupee
+Sudan,Khartoum,"['Arabic', 'English']",39598700,https://restcountries.eu/data/sdn.svg,Sudanese pound
+Suriname,Paramaribo,['Dutch'],541638,https://restcountries.eu/data/sur.svg,Surinamese dollar
+Svalbard and Jan Mayen,Longyearbyen,['Norwegian'],2562,https://restcountries.eu/data/sjm.svg,Norwegian krone
+Swaziland,Lobamba,"['English', 'Swati']",1132657,https://restcountries.eu/data/swz.svg,Swazi lilangeni
+Sweden,Stockholm,['Swedish'],9894888,https://restcountries.eu/data/swe.svg,Swedish krona
+Switzerland,Bern,"['German', 'French', 'Italian']",8341600,https://restcountries.eu/data/che.svg,Swiss franc
+Syrian Arab Republic,Damascus,['Arabic'],18564000,https://restcountries.eu/data/syr.svg,Syrian pound
+Taiwan,Taipei,['Chinese'],23503349,https://restcountries.eu/data/twn.svg,New Taiwan dollar
+Tajikistan,Dushanbe,"['Tajik', 'Russian']",8593600,https://restcountries.eu/data/tjk.svg,Tajikistani somoni
+"Tanzania, United Republic of",Dodoma,"['Swahili', 'English']",55155000,https://restcountries.eu/data/tza.svg,Tanzanian shilling
+Thailand,Bangkok,['Thai'],65327652,https://restcountries.eu/data/tha.svg,Thai baht
+Timor-Leste,Dili,['Portuguese'],1167242,https://restcountries.eu/data/tls.svg,United States dollar
+Togo,Lomé,['French'],7143000,https://restcountries.eu/data/tgo.svg,West African CFA franc
+Tokelau,Fakaofo,['English'],1411,https://restcountries.eu/data/tkl.svg,New Zealand dollar
+Tonga,Nuku'alofa,"['English', 'Tonga (Tonga Islands)']",103252,https://restcountries.eu/data/ton.svg,Tongan pa'anga
+Trinidad and Tobago,Port of Spain,['English'],1349667,https://restcountries.eu/data/tto.svg,Trinidad and Tobago dollar
+Tunisia,Tunis,['Arabic'],11154400,https://restcountries.eu/data/tun.svg,Tunisian dinar
+Turkey,Ankara,['Turkish'],78741053,https://restcountries.eu/data/tur.svg,Turkish lira
+Turkmenistan,Ashgabat,"['Turkmen', 'Russian']",4751120,https://restcountries.eu/data/tkm.svg,Turkmenistan manat
+Turks and Caicos Islands,Cockburn Town,['English'],31458,https://restcountries.eu/data/tca.svg,United States dollar
+Tuvalu,Funafuti,['English'],10640,https://restcountries.eu/data/tuv.svg,Australian dollar
+Uganda,Kampala,"['English', 'Swahili']",33860700,https://restcountries.eu/data/uga.svg,Ugandan shilling
+Ukraine,Kiev,['Ukrainian'],42692393,https://restcountries.eu/data/ukr.svg,Ukrainian hryvnia
+United Arab Emirates,Abu Dhabi,['Arabic'],9856000,https://restcountries.eu/data/are.svg,United Arab Emirates dirham
+United Kingdom of Great Britain and Northern Ireland,London,['English'],65110000,https://restcountries.eu/data/gbr.svg,British pound
+United States of America,"Washington, D.C.",['English'],323947000,https://restcountries.eu/data/usa.svg,United States dollar
+Uruguay,Montevideo,['Spanish'],3480222,https://restcountries.eu/data/ury.svg,Uruguayan peso
+Uzbekistan,Tashkent,"['Uzbek', 'Russian']",31576400,https://restcountries.eu/data/uzb.svg,Uzbekistani so'm
+Vanuatu,Port Vila,"['Bislama', 'English', 'French']",277500,https://restcountries.eu/data/vut.svg,Vanuatu vatu
+Venezuela (Bolivarian Republic of),Caracas,['Spanish'],31028700,https://restcountries.eu/data/ven.svg,Venezuelan bolívar
+Viet Nam,Hanoi,['Vietnamese'],92700000,https://restcountries.eu/data/vnm.svg,Vietnamese đồng
+Wallis and Futuna,Mata-Utu,['French'],11750,https://restcountries.eu/data/wlf.svg,CFP franc
+Western Sahara,El Aaiún,['Spanish'],510713,https://restcountries.eu/data/esh.svg,Moroccan dirham
+Yemen,Sana'a,['Arabic'],27478000,https://restcountries.eu/data/yem.svg,Yemeni rial
+Zambia,Lusaka,['English'],15933883,https://restcountries.eu/data/zmb.svg,Zambian kwacha
+Zimbabwe,Harare,"['English', 'Shona', 'Northern Ndebele']",14240168,https://restcountries.eu/data/zwe.svg,Botswana pula
