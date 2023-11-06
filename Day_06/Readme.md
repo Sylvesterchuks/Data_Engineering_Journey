@@ -4,24 +4,32 @@ Covered Basic concepts of Python
 📌 Working with Variables
 
 #### 📌 Basic Datatypes
-✔️ String
-✔️ Integer
-✔️ Float
-✔️ Boolean
-✔️ Complex
+<ul style="list-style-type:'&#x2705; ';">
+<li>✔️ String</li>
+<li>✔️ Integer</li>
+<li>✔️ Float</li>
+<li>✔️ Boolean</li>
+<li>✔️ Complex</li>
+</ul>
 
 #### 📌 Operators
-✔️ Arithmetic operators
-✔️ Logical operators
+<ul style="list-style-type:'&#x2705; ';">
+<li>✔️ Arithmetic operators</li>
+<li>✔️ Logical operators</li>
+</ul>
 
 #### 📌 More on Datatypes:
-✔️ List
-✔️ Tuple
-✔️ Set
-✔️ Dictionary
+<ul style="list-style-type:'&#x2705; ';">
+<li>✔️ List</li>
+<li>✔️ Tuple</li>
+<li>✔️ Set</li>
+<li>✔️ Dictionary</li>
+</ul>
 
 #### 📌 Control Structures
-✔️ Conditional Statements
-✔️ Looping Constructs
+<ul style="list-style-type:'&#x2705; ';">
+<li>✔️ Conditional Statements</li>
+<li>✔️ Looping Constructs</li>
+</ul>
 
 #100DaysOfDataEngineering #DataEngineering #Data
