@@ -1,14 +1,15 @@
 # Data Engineering Journey 
-<figure>
-  <img src='https://static.vecteezy.com/system/resources/previews/006/748/419/original/data-engineering-gear-with-data-enter-in-flat-gradient-icon-vector.jpg'/>
-  <figcaption><center><a href="https://www.vecteezy.com/vector-art/6748419-data-engineering-gear-with-data-enter-in-flat-gradient-icon"> Image gotten from Vecteezy</a></center></figcaption>
-</figure>
+<div align="center">
+  <img src='./templates/images/1676821819731.jpg'/>
+  <p><a href="https://www.linkedin.com/pulse/tipoftoday139-free-data-engineering-learning-path-omar-najar/"> Image gotten from Omar's Daily Tips</a></p>
+</div>
 
-
+<div>
 This repository is about my everyday journey in the data engineering field.
+</div>
 
 | # Day| Topics  | 
-|---:|:-------------|
+|:---:|:-------------|
 | 01 | [Day 1: Why Data Engineering is important](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_01)  |
 | 02 | [Day 2: Dynamic and Evolution of Data Engineering Work in an Organization.](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_02)  |
 | 03 | [Day 3: Difference between a Data Engineer, Data Analyst and a Data Scientist.](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_03)  |
