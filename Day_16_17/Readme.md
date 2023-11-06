@@ -6,5 +6,5 @@ Using the python skills learnt over the past few weeks to read from different fi
 * Read from .log files and save to csv. 
 
 #100DaysOfDataEngineering #DataEngineering #Data
-![](https://github.com/Sylvesterchuks/Data_Engineering_Journey/blob/main/days_16_17/Slide1.PNG)
-![](https://github.com/Sylvesterchuks/Data_Engineering_Journey/blob/main/days_16_17/Slide3.PNG)
+![json to csv conersion and vice versa](Slide1.PNG)
+![different formats to csv conversion](Slide3.PNG)
