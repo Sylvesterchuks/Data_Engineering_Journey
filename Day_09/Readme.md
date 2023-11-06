@@ -9,4 +9,4 @@ Some examples of built-in modules include: os, math, string, datetime, collectio
 
 #100DaysOfDataEngineering  #DataEngineering  #Data
 
-![lambda function examples](https://media.licdn.com/dms/image/D5622AQHdA3F6biAQdw/feedshare-shrink_800/0/1698516551360?e=1701907200&v=beta&t=Yu8Ogr0pI7mn6gMds5be5bxT-iqBhG2dCj-0_NIoXbU)
+![lambda function examples](1698516551360.jpg)
