@@ -9,4 +9,4 @@ NB: The function block of code is executed only when the function is called or i
 Credit to Asabeneh Yetayeh: [https://lnkd.in/gayJ-yNj](https://lnkd.in/gayJ-yNj)
 
 #100DaysOfDataEngineering #DataEngineering #Data
-![Example Python functions](https://media.licdn.com/dms/image/D5622AQEpgybpeEdjfA/feedshare-shrink_800/0/1698430337739?e=1701907200&v=beta&t=mTpbKvr3Y1UeTnlGDQG6a9Q4c8-1fTDaKGcKqG2sf94)
+![Example Python functions]([https://media.licdn.com/dms/image/D5622AQEpgybpeEdjfA/feedshare-shrink_800/0/1698430337739?e=1701907200&v=beta&t=mTpbKvr3Y1UeTnlGDQG6a9Q4c8-1fTDaKGcKqG2sf94](https://github.com/Sylvesterchuks/Data_Engineering_Journey/blob/main/Day_08/1698430337739.jpg)https://github.com/Sylvesterchuks/Data_Engineering_Journey/blob/main/Day_08/1698430337739.jpg)
