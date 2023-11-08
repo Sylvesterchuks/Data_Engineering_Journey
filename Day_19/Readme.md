@@ -13,3 +13,5 @@ Today, I continued my data engineering journey by learning how to use the pandas
 I am excited to continue learning more about pandas and its vast application. Click [here](https://github.com/Sylvesterchuks/Data_Engineering_Journey/blob/main/Day_19/streamlined_data_ingestion_with_pandas.ipynb) to view my notebook.
 
 #100DaysOfDataEngineering #DataEngineering #Data
+
+![](1699415848556.jpeg)
