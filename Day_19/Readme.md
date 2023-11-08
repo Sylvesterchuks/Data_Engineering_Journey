@@ -10,6 +10,6 @@ Today, I continued my data engineering journey by learning how to use the pandas
 <p>📌 how to load data from APIs. Pandas does not provide a built-in function for this purpose, so I used the requests library to make API calls and then load the data into a pandas DataFrame using the read_json() function.</p>
 <p>📌 In addition I learnt how to use json_normalize function for flattening Nested JSONs.</p>
 
-I am excited to continue learning more about pandas and its vast application.
+I am excited to continue learning more about pandas and its vast application. Click [here](https://github.com/Sylvesterchuks/Data_Engineering_Journey/blob/main/Day_19/streamlined_data_ingestion_with_pandas.ipynb) to view my notebook.
 
 #100DaysOfDataEngineering #DataEngineering #Data
