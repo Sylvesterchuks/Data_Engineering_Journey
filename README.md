@@ -26,3 +26,4 @@ This repository is about my everyday journey in the data engineering field.
 | 14 | [Day 14: Logging in Python](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_14)  |
 | 15 | [Day 15: Regular Expression](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_15)  |
 | 16-17 | [Day 16 - 17: Reading file Task](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_16_17)  |
+| 18 | [Day 18: Types of Data and Data Sources](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_18)|
