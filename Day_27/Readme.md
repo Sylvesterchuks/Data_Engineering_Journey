@@ -25,4 +25,4 @@ This Bash script acts as an orchestrator, invoking the modularized Python code w
 
 #100DaysOfDataEngineering #DataEngineering #AnalyticsEngineering #Data #bashscripting 
 
-![code snippet](carbon (6).png)
+![code snippet](carbon.png)
