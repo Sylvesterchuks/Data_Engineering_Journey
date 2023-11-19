@@ -43,5 +43,8 @@ Data Query Language (DQL) is used to retrieve data from the database.
 
 #100DaysOfDataEngineering #DataEngineering #Data
 
-![Basic SQL 1](carbon3.png)
-![Basic SQL 2](carbon4.png)
+
+![Basic SQL 1](1699638163708.jpg)
+![Basic SQL 2](1699638163500.jpg)
+
+
