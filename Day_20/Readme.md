@@ -1,7 +1,9 @@
 ## Day 20 : Web Scraping/Extraction
 
 🔍 Web Scraping is used to extract relevant data from websites. Also known as screen scraping or web data extraction, web scraping makes it possible to download specific data from web pages based on defined parameters. 
-Today I worked with requests and Beautiful soup library to scrap data from https://lnkd.in/gkQ2Xphp
+Today I worked with requests and Beautiful soup library to scrap data from [Scrapingclub](https://scrapingclub.com/exercise/list_basic/)
+
+![Scrapingclub page](Screenshot_1.jpg)
 
 #### Steps involved in scraping data:
 
@@ -13,7 +15,7 @@ Today I worked with requests and Beautiful soup library to scrap data from https
  - <p>⭕  from bs4 import BeautifulSoup</p>
 \
 **🔗 Send a GET request to the website you want to scrape and Check the response status code:**
- - <p>⭕ url = "https://lnkd.in/gkQ2Xphp"</p>
+ - <p>⭕ url = "https://scrapingclub.com/exercise/list_basic/"</p>
  - <p>⭕  response = requests.get(url)</p>
 \
 **✏ Parse the HTML content:**
@@ -29,3 +31,5 @@ Today I worked with requests and Beautiful soup library to scrap data from https
  - <p>⭕  You can save the scraped data to a file (CSV, JSON, etc.) or store it in a database for further analysis. for more scraping practice check the above site</p>
 \
 #100DaysOfDataEngineering #DataEngineering #Data
+![Code Snippet](1699466220224.jpg)
+![Code Snippet](1699466220924.jpg)
