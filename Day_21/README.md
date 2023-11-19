@@ -1,6 +1,6 @@
 ## Day 21: Database
 
-<p><img src="database.jpeg"/><span><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fdatabase&psig=AOvVaw1K6NIVD0HWWHzHz4vdmITN&ust=1700502983849000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj7qM2z0dCCAxXnPEQIHa-9BDUQr4kDegUIARCBAQ" >Image gotten from Freepik</a></span></p>
+<p><img src="database.jpeg" width="100%" /><span><a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fdatabase&psig=AOvVaw1K6NIVD0HWWHzHz4vdmITN&ust=1700502983849000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj7qM2z0dCCAxXnPEQIHa-9BDUQr4kDegUIARCBAQ">Image gotten from Freepik</a></span></p>
 
 ***
 \
