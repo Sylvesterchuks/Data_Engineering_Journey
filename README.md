@@ -28,3 +28,14 @@ This repository is about my everyday journey in the data engineering field.
 | 16-17 | [Day 16 - 17: Reading file Task](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_16_17)  |
 | 18 | [Day 18: Types of Data and Data Sources](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_18)|
 | 19 | [Day 19: Data Ingestion with Pandas](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_19)|
+| 20 | [Day 20: Web Scraping/Extraction](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_20)|
+| 21 | [Day 21: Working with Database](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_21)|
+| 22 | [Day 22: SQL Basics, Query Structure, Built In Clause](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_22)|
+| 23 | [Day 23: Creating and Working with a Database](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_23)|
+| 24 | [Day 24: Database Design](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_24)|
+| 25 | [Day 25:  Exploring Signal v. Noise Blogs: A Web Scraping Journey](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_25)|
+| 26 | [Day 26: Bash Scripting](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_26)|
+| 27 | [Day 27: Learn Bash and SQL by creating bash script to automate Signal v. Noise web scraping task.](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_27)|
+| 28 | [Day 28: Frequently used Linux Commands in Data engineering.](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_28)|
+| 29 | [Day 29: Working with PostgreSQL](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_29)|
+| 30 | [Day 30: Building Robust Data Pipelines for Washington DC Service Calls Request: End to End Data Engineering Project](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_30)|
