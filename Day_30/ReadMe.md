@@ -35,8 +35,8 @@ This project helped me to explore and work through different stages of data engi
 
 **Dataset Used**:
 More info on the dataset here:
-- Website: https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2012/explore?location=39.996028%2C-78.566946%2C8.98&showTable=true
-
+- Website: [https://opendata.dc.gov/datasets/DCGIS::311-city-service-requests-in-2012/explore?location=39.996028%2C-78.566946%2C8.98&showTable=true](https://opendata.dc.gov/datasets/DCGIS::all-311-city-service-requests-last-30-days/explore?showTable=true)
+- Code: https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_30
 **My Dashboard**:
 
 ![final analysis image](https://github.com/Sylvesterchuks/Data_Engineering_Journey/assets/51254935/35e2e630-12ee-494d-8bd8-9d3f067a33fe)
