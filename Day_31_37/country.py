@@ -66,12 +66,3 @@ def retireve_details(country_name=None, state_name=None, return_state=False, ret
             country_city_names = country_cities['name'].values
             return country_city_names
     
-
-
-# country_name = 'China'
-# state_name = 'Gansu'
-# return_state=False
-# return_city=True
-
-# names = retireve_details(country_name=country_name, state_name=state_name, return_state=return_state, return_city=return_city)
-# print(names)

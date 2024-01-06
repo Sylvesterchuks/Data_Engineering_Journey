@@ -1,5 +1,7 @@
 import os
 import argparse
+import aiohttp
+import asyncio
 from weather_etl import *
 from country import * 
 import time
@@ -61,6 +63,5 @@ if __name__=='__main__':
     results = [json.loads(result) for result in results]
     results_dict = dict(zip(urls.keys(),results))
     transform_load_data_to_df(results_dict, region=location)
-    # transform_load_data(results_dict, location)
   
     print(time.time() - strt_time)
