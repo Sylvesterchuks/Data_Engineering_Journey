@@ -1,1 +1,1 @@
-Contains Files and Other documents used for in this journey.
+Contains Files and Other documents used.
