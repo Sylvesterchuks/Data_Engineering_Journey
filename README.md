@@ -39,4 +39,4 @@ This repository is about my everyday journey in the data engineering field.
 | 28 | [Day 28: Frequently used Linux Commands in Data engineering.](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_28)|
 | 29 | [Day 29: Working with PostgreSQL](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_29)|
 | 30 | [Day 30: Building Robust Data Pipelines for Washington DC Service Calls Request: End to End Data Engineering Project](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_30)|
-| 31-37 | [Day 31-37: Working with APIs: ETL Automation of World's Daily Weather Data Report Info](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_31-37)|
+| 31-37 | [Day 31-37: Working with APIs: ETL Automation of World's Daily Weather Data Report Info](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_31_37)|
