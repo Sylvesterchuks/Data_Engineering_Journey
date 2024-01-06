@@ -1,8 +1,5 @@
 import os
 from datetime import timedelta, datetime
-import json
-import asyncio
-import aiohttp
 import requests
 import pandas as pd
 import numpy as np
@@ -96,65 +93,6 @@ def transform_load_data_to_df(task_instance, region=country_name):
     dt_string = now.strftime("%d%m%Y%H%M%S")
     dt_string = f'current_weather_data_{region}_' + dt_string
     df_data.to_csv(f"{dt_string}.csv", index=False)
-
-
-
-
-def transform_load_data(task_instance, region=country_name):
-    data_list = task_instance
-    transformed_data_list = []
-    for location, data in data_list.items():
-        if data['cod']==200:
-            city = data["name"]
-            weather_description = data["weather"][0]['description']
-            temp_farenheit = kelvin_to_fahrenheit(data["main"]["temp"])
-            feels_like_farenheit= kelvin_to_fahrenheit(data["main"]["feels_like"])
-            min_temp_farenheit = kelvin_to_fahrenheit(data["main"]["temp_min"])
-            max_temp_farenheit = kelvin_to_fahrenheit(data["main"]["temp_max"])
-            pressure = data["main"]["pressure"]
-            humidity = data["main"]["humidity"]
-            wind_speed = data["wind"]["speed"]
-            time_of_record = datetime.utcfromtimestamp(data['dt'] + data['timezone'])
-            sunrise_time = datetime.utcfromtimestamp(data['sys']['sunrise'] + data['timezone'])
-            sunset_time = datetime.utcfromtimestamp(data['sys']['sunset'] + data['timezone'])
-        else:
-            city = location
-            weather_description = ''
-            temp_farenheit = None
-            feels_like_farenheit= None
-            min_temp_farenheit = None
-            max_temp_farenheit = None
-            pressure = ''
-            humidity = ''
-            wind_speed = ''
-            time_of_record = None
-            sunrise_time = None
-            sunset_time = None
-
-
-        transformed_data = {"City": city,
-                            "Description": weather_description,
-                            "Temperature (F)": temp_farenheit,
-                            "Feels Like (F)": feels_like_farenheit,
-                            "Minimun Temp (F)":min_temp_farenheit,
-                            "Maximum Temp (F)": max_temp_farenheit,
-                            "Pressure": pressure,
-                            "Humidty": humidity,
-                            "Wind Speed": wind_speed,
-                            "Time of Record": time_of_record,
-                            "Sunrise (Local Time)":sunrise_time,
-                            "Sunset (Local Time)": sunset_time                        
-                            }
-        
-        transformed_data_list.append(transformed_data)
-    df_data = pd.DataFrame(transformed_data_list)
-    
-
-    now = datetime.now()
-    dt_string = now.strftime("%d%m%Y%H%M%S")
-    dt_string = f'E:/cdrive/data_world/data_engineering_zoomcamp/learning/days_challenging/day_31/current_weather_data_{region}_' + dt_string
-    df_data.to_csv(f"{dt_string}.csv", index=False)
-
 
 def get_data_api(url):
     response = requests.request("GET", url)
