@@ -1,0 +1,1 @@
+activate base && cd /d E:\cdrive\data_world\data_engineering_zoomcamp\learning\days_challenging\day_31 && python python_scraper.py
