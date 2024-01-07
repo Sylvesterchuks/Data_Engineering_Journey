@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 import os
 import argparse
+import asyncio
+import aiohttp
 from weather_etl import *
 from country import * 
 import time
