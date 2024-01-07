@@ -1,96 +1,64 @@
-# Day 31
-Python scripts
-Assortment of scripts that run on the command line, i.e. Terminal on macOS, and Command Prompt on Windows.
+# Day 31-37: Working with APIs: ETL Automation of World's Daily Weather Data Report Info
 
-Description
-buildAll.py
-For a given directory, this script goes through every subfolder and runs makeOTF for each font source file (.ufo, .pfa) found.
+## Python scripts
+List of scripts that will run our ETL automation task in the command line, i.e. Terminal on macOS, and Command Prompt on Windows.
 
-makeOTF is run with the following options:
--r: release mode
-* subroutinization turned on
-* strict error-reporting
-* GlyphOrderAndAliasDB is applied
+#### Description
 
--gs: glyphs not listed in the GlyphOrderAndAliasDB are removed from the resulting font file
+**country.py**
 
-checkAll.py
-Run checkoutlinesufo -e to remove overlaps in all source files (.ufo, .pfa) contained in a given directory tree.
+This scripts contains functions that connects to the country state city API using an API key and returns the Countries, States/Provinces and Cities around the world based on the given parameters.
 
--e: This option results in changes to outlines. For a PFA file means that overlapping glyphs will be replaced by new ones (therefore may be lost). In a UFO file, new glyphs are written to a new glyphs.com.adobe.type.processedGlyphs layer, which does not interfere with the foreground, and is used by makeotf to generate font binaries.
+`retrieve_details(country_name, state_name, return_state, return_city) function is used to retrieve countries, states or cities`
 
-hintAll.py
-Run psautohint to add hints to all glyphs in in all source files (.ufo, .pfa) contained in a given directory tree.
+**When**
 
-In a UFO file, hinted glyphs are written to a new glyphs.com.adobe.type.processedGlyphs layer, which does not interfere with the foreground, and is used by makeotf to generate font binaries.
+- all parameters are of default value, returns the name and iso_code all countries in the world
+- Country_name='China', return_state=True other parameters are of default value, all States/Province in China will be returned.
+- Country_name='China', state_name='Shanghai', return_city=True, other parameters are of default value, all cities within a province of China will be returned. 
+- Country_name='China' and other parameters are of default value, all cities of China will be returned. 
 
-generateAllKernFiles.py
-For each source file in a given directory tree, generate a kern.fea file, which can be referenced in a features file (as expected by makeOTF).
-The kern.fea file contains only raw kern data made of groups and lookups, and must be wrapped in feature tags by way of a include statement.
-It may look like this:
 
-feature kern {
-    include (kern.fea);
-} kern;
-It is possible to change settings for generating kern files (such as minimum kerning value, writing of subtables, etc.) directly in the script file.
+**weather_etl.py**
 
-generateOneKernFile.py
-Generate a single kern.fea file for a given UFO. The resulting file can be used in the same way as explained above. This script’s options can also be changed as explained above.
+Takes charge of all of the weather data urls extraction for every city, state or country using the weather API, transformation function to transform the degrees temperation and datetime formatting and finally loaded ointo a csv file.
 
-generateAllMarkFiles.py
-For each font source file in a given directory tree, generates mark.fea, markclasses.fea, and mkmk.fea files, which can be used in a features file (as expected by makeOTF).
-The m*.fea files contain only raw mark data, and must be wrapped in feature tags by way of an include statement. It may look like this:
 
-include (markclasses.fea);
+**run_script.sh**
 
-feature mark {
-    include (mark.fea);
-} mark;
+This is the bash script that runs our ETL task. It takes some arguments to be passed to the retrieval_details function.
+They include:
+- -c --country
+- -s --state_name
+- -rs --return_state
+- -rc --return_city
 
-feature mkmk {
-    include (mkmk.fea);
-} mkmk;
-This script can also create abvm.fea and blwm.fea files for Indic scripts. More information in the script file itself.
+**python_scraper.sh**
 
-generateOneMarkFiles.py
-Generate mark files (as explained above) for a single UFO.
+This python script that runs our ETL task like the bash_script above. It takes same arguments and follows the the same workflow as the bash script above.
 
-ufo2pfa.py
-Convert all UFO files in a given directory tree to PFA (PostScript Type 1) files, using tx.
 
-ufo2txt.py
-Convert all UFO files in a given directory tree to TXT files, using tx.
-TXT files are decrypted PostScript Type 1 (PFA) files.
+##### Installation
+<hr>
+On your local machine create a folder and git clone this repository into the created folder. 
+change dir to day_31_37
+Create and activate a virtual environment
 
-pfa2txt.py
-Converts all PFA files in a given directory tree to TXT files, using tx.
-TXT files are decrypted PostScript Type 1 (PFA) files.
 
-checkUFOProcessedLayer.py
-For a UFO font, check that the glyph hashes stored when checkOutlinesUFO or autohint were last ran still match the source glyph hashes. If not, all outdated glyphs are deleted from the Adobe processed layer.
+##### Dependencies
+<hr>
+Run the `pip install -r requirements.txt` to install all Python packages and their dependencies neede for this task inside the virtual environment.
 
-Installation
-Mac OS X: A version of Python is already installed.
-Windows: You will need to install one of the 2.x versions available at python.org.
 
-Dependencies
-Some of the scripts may require additional Python packages or depend on certain tools being installed and appropriately configured to run on the command line. Here is a list of the locations from which you may need to get the extra tools and packages:
+##### To run the script:
+- `./run_script.sh` runs the bash file
+- `python python_scraper.py` runs the python file.
+  
+NB: these two are the same script only difference is while one is a bash file, the other is a python file.
 
-Adobe Font Development Kit for OpenType (AFDKO)
-
-makeotf
-psautohint
-tx
-ttx
-detype1
-spot
-FontTools
-
-Type Supply Tools
-
-defcon
-General usage information
+## General usage information
 Download the ZIP package and unzip it.
-Most of the scripts will run by simply typing python  followed by the file name of the script, e.g. python theScript.py.
-If the script is in a different directory from which you are trying to run it, you will need to provide the full path to the script’s file, e.g. python /Users/myself/foldername/theScript.py.
-Some scripts may allow you to use options, or require that you provide input files. To learn how to use those scripts, open them in a text editor app (e.g. TextEdit, Notepad) and read the documentation near the top of the file.
+
+Most of the scripts will run by simply typing python  followed by the file name of the script, e.g. python Script.py.
+
+If the script is in a different directory from which you are trying to run it, you will need to provide the full path to the script’s file, e.g. python /Users/username/foldername/Script.py.
