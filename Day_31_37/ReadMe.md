@@ -1,4 +1,5 @@
 # Day 31-37: Working with APIs: ETL Automation of World's Daily Weather Data Report Info
+![image](https://github.com/Sylvesterchuks/Data_Engineering_Journey/assets/51254935/5ac0e448-0ae3-4f05-8442-6aff4c670fa7)
 
 ## Python scripts
 List of scripts that will run our ETL automation task in the command line, i.e. Terminal on macOS, and Command Prompt on Windows.
