@@ -40,14 +40,38 @@ This python script that runs our ETL task like the bash_script above. It takes s
 
 ##### Installation
 <hr>
-On your local machine create a folder and git clone this repository into the created folder. 
-change dir to day_31_37
-Create and activate a virtual environment
+On your local machine open gitbash and create a folder named weather_etl
 
+    mkdir weather_etl
+Change to the created directory
 
-##### Dependencies
-<hr>
+    cd weather_etl/
+Create a virtual environment
+
+    python -m venv venv
+Activate the virtual environment
+
+    source venv/Scripts/activate
+Clone the git repository
+
+    git clone https://github.com/Sylvesterchuks/Data_Engineering_Journey.git
+Change to the directory containing our scripts
+
+    cd Data_Engineering_Journey/Day_31_37/
 Run the `pip install -r requirements.txt` to install all Python packages and their dependencies neede for this task inside the virtual environment.
+    
+    python -m pip install -r requirements.txt
+Register for the Country and Weather Api, add the API key to their respective variable in .env file 
+```
+#create an account on https://countrystatecity.in/docs/api/all-states/ to get the X_CSCAPI_KEY
+#create an account on https://openweathermap.org/current to get the WEATHER_API key
+    
+nano .env
+```
+
+Run the below command to get the correct path into scrpaer.bat which can be used in the task scheduler for automation
+
+    sed -i 's\path\'$(pwd)'\g' scraper.bat && sed -i 's\/e\E:\g' scraper.bat
 
 
 ##### To run the script:
