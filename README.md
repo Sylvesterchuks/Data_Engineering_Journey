@@ -9,7 +9,7 @@ This repository is about my everyday journey in the data engineering field.
 </div>
 
 | # Day| Topics  | 
-|:-----:|:-------------|
+|:-------:|:---------------------|
 | 01 | [Day 1: Why Data Engineering is important](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_01)  |
 | 02 | [Day 2: Dynamic and Evolution of Data Engineering Work in an Organization.](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_02)  |
 | 03 | [Day 3: Difference between a Data Engineer, Data Analyst and a Data Scientist.](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_03)  |
