@@ -97,9 +97,10 @@ SECURITY_GROUPS = ['sg-*************'] #getpass('Enter Security Groups separated
 ```
     nano .env
 
-Run the below command to get the correct path into scrpaer.bat which can be used in the task scheduler for automation
+Run the below command to get the correct path into scrpaer.bat, then add the batch file to windows task scheduler to automate the ETL process.
 
-    sed -i 's\path\'$(pwd)'\g' scraper.bat && sed -i 's\/e\E:\g' scraper.bat
+    drive=$(echo `pwd` | cut -d / -f2)
+    sed -i 's\path\'$(pwd)'\g' scraper.bat && sed -i 's\/'"$drive"'/\'"$drive"':\g' scraper.bat
 
 
 ##### To run the script:
