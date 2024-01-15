@@ -1,0 +1,1 @@
+cd /d path && source venv/Scripts/activate && python main.py
