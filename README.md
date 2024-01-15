@@ -9,7 +9,7 @@ This repository is about my everyday journey in the data engineering field.
 </div>
 
 | # Day| Topics  | 
-|:---:|:-------------|
+|:-----:|:-------------|
 | 01 | [Day 1: Why Data Engineering is important](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_01)  |
 | 02 | [Day 2: Dynamic and Evolution of Data Engineering Work in an Organization.](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_02)  |
 | 03 | [Day 3: Difference between a Data Engineer, Data Analyst and a Data Scientist.](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_03)  |
@@ -40,3 +40,4 @@ This repository is about my everyday journey in the data engineering field.
 | 29 | [Day 29: Working with PostgreSQL](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_29)|
 | 30 | [Day 30: Building Robust Data Pipelines for Washington DC Service Calls Request: End to End Data Engineering Project](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_30)|
 | 31-37 | [Day 31-37: Working with APIs: ETL Automation of World's Daily Weather Data Report Info](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_31_37)|
+|38-41|[Day 38-41: ETL Automation of Washington DC 311 service Report Info](https://github.com/Sylvesterchuks/Data_Engineering_Journey/tree/main/Day_38_41)|
